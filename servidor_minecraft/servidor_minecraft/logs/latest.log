@@ -1,0 +1,80 @@
+[12Oct2026 23:32:09.538] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[12Oct2026 23:32:09.540] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 25.0.4.1+1-1-24.04.4-Ubuntu
+[12Oct2026 23:32:09.541] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.6 starting: java version 25.0.4.1 by Ubuntu; OS Linux arch amd64 version 6.8.0-1064-azure
+[12Oct2026 23:32:09.626] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/bug-free-octo-adventure/servidor_minecraft/servidor_minecraft/config/fml.toml is not correct. Correcting
+[12Oct2026 23:32:09.627] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[12Oct2026 23:32:09.627] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[12Oct2026 23:32:09.628] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[12Oct2026 23:32:09.628] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[12Oct2026 23:32:09.641] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[12Oct2026 23:32:09.731] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/bug-free-octo-adventure/servidor_minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[12Oct2026 23:32:10.074] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[12Oct2026 23:32:10.397] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[12Oct2026 23:32:15.769] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 65.1.3, for MC 26.2 with MCP 20260616.103818
+[12Oct2026 23:32:15.770] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v65.1.3 Initialized
+[12Oct2026 23:32:15.782] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[12Oct2026 23:32:15.961] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/bug-free-octo-adventure/servidor_minecraft/servidor_minecraft/config/forge-common.toml is not correct. Correcting
+[12Oct2026 23:32:15.964] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[12Oct2026 23:32:15.964] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.logLegacyTagWarnings was corrected from null to its default, OFF. 
+[12Oct2026 23:32:16.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[12Oct2026 23:32:16.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 65.1.3 Target: 65.1.4
+[12Oct2026 23:32:17.142] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[12Oct2026 23:32:18.176] [Worker-Main-2/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[12Oct2026 23:32:19.486] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1585 recipes
+[12Oct2026 23:32:19.522] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1688 advancements
+[12Oct2026 23:32:20.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 26.2
+[12Oct2026 23:32:20.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[12Oct2026 23:32:20.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[12Oct2026 23:32:20.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[12Oct2026 23:32:20.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[12Oct2026 23:32:20.640] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12Oct2026 23:32:20.641] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[12Oct2026 23:32:20.641] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12Oct2026 23:32:20.641] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[12Oct2026 23:32:20.656] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[12Oct2026 23:32:20.745] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[12Oct2026 23:32:20.746] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[12Oct2026 23:32:20.746] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[12Oct2026 23:32:20.746] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[12Oct2026 23:32:20.746] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[12Oct2026 23:32:20.747] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[12Oct2026 23:32:20.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[12Oct2026 23:32:21.134] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Selecting global world spawn...
+[12Oct2026 23:32:26.057] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[12Oct2026 23:32:26.058] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[12Oct2026 23:32:26.060] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 4927 ms
+[12Oct2026 23:32:26.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.406s)! For help, type "help"
+[12Oct2026 23:32:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Oct2026 23:32:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Oct2026 23:32:26.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Oct2026 23:32:26.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Oct2026 23:32:26.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Oct2026 23:32:26.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Oct2026 23:32:26.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Oct2026 23:32:26.219] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[12Oct2026 23:33:26.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[12Oct2026 23:34:36.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Oct2026 23:34:36.392] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+com.sun.jna.LastErrorException: [5] Input/output error
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Native.invokeVoid(Native Method) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Function.invoke(Function.java:418) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Function.invoke(Function.java:364) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/com.sun.jna@5.17.0/com.sun.jna.Library$Handler.invoke(Library.java:270) ~[jna-5.17.0.jar!/:5.17.0 (b0)]
+	at SECURE-BOOTSTRAP/jdk.proxy2/jdk.proxy2.$Proxy18.tcgetattr(Unknown Source) ~[?:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal.jna@3.25.1/org.jline.terminal.impl.jna.linux.LinuxNativePty.doSetAttr(LinuxNativePty.java:105) ~[jline-terminal-jna-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:48) ~[jline-terminal-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.terminal@3.25.1/org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:55) ~[jline-terminal-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.reader@3.25.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:774) ~[jline-reader-3.25.1.jar!/:?]
+	at SECURE-BOOTSTRAP/org.jline.reader@3.25.1/org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:512) ~[jline-reader-3.25.1.jar!/:?]
+	at TRANSFORMER/net.minecraftforge.forge@65.1.3/net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-26.2-65.1.3-universal.jar!/:?]
+	at TRANSFORMER/minecraft@26.2/net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:171) ~[forge-26.2-65.1.3-server.jar!/:?]
+[12Oct2026 23:34:36.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Oct2026 23:34:36.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Oct2026 23:34:36.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Oct2026 23:34:36.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Oct2026 23:34:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Oct2026 23:34:36.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Oct2026 23:34:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Oct2026 23:34:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Oct2026 23:34:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Oct2026 23:34:36.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
